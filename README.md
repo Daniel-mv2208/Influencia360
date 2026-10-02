@@ -46,3 +46,4 @@ install.packages(c("charlatan", "bnlearn", "dplyr", "tidyr", "readr",
 
 La red bayesiana estima asociaciones probabilísticas condicionales. En este conjunto ficticio el proceso generador es conocido, pero el modelo aprendido de datos observacionales no demuestra causalidad. Sus probabilidades deben interpretarse como apoyo para priorización y no como una decisión automática sobre personas.
 
+
